@@ -1,0 +1,7 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-family: 'Chelsea Market', cursive;
+}
+
